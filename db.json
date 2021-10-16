@@ -1,28 +1,3 @@
 {
-  "tasks": [
-    {
-      "id": 2,
-      "text": "Meeting at School",
-      "day": "May 12th at 11.30am",
-      "reminder": true
-    },
-    {
-      "id": 3,
-      "text": "Food Shopping",
-      "day": "May 10th at 4.00pm",
-      "reminder": false
-    },
-    {
-      "text": "Shopping",
-      "day": "Sept 15th at 3.00 pm",
-      "reminder": false,
-      "id": 4
-    },
-    {
-      "text": "Doctor Appointment",
-      "day": "Sept 20th at 6:00 pm",
-      "reminder": true,
-      "id": 5
-    }
-  ]
+  "tasks": []
 }

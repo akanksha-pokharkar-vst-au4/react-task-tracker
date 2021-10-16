@@ -19,7 +19,25 @@ body {
   min-height: 300px;
   border: 1px solid steelblue;
   padding: 30px;
-  border-radius: 8px;
+  border-radius: 15px;
+  box-shadow: 3px 3px 3px 0px rgba(128, 128, 128, 0.801);
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-weight: 700;
+  font-size: large;
+  border: 1px solid white;
+  padding: 10px 20px;
+  border-radius: 25px 0.5px;
+  background-color: whitesmoke;
+  margin-top: 20px;
+}
+
+.copyrights{
+  margin-top: 20px;
+  
 }
 
 .header {
@@ -117,6 +135,6 @@ body {
 }
 
 footer {
-  margin-top: 30px;
+  margin-top: 90px;
   text-align: center;
 }
